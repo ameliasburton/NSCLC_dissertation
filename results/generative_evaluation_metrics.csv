@@ -1,0 +1,6 @@
+Metric,Score,Detail
+Validity,100.0%,2000/2000 pass RDKit sanitization
+Uniqueness,82.5%,1651 unique of 2000 valid
+Novelty,100.0%,1651 not in training set (exact SMILES match)
+Diversity (IntDiv),0.8769,mean pairwise Tanimoto distance (n=1000)
+Reconstruction*,100.0%,SMILES round-trip on 500 training molecules

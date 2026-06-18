@@ -1,0 +1,8 @@
+SMILES,QED,SA_score,MW,LogP,HBD,HBA,Lipinski_pass,Aromatic_rings,NumAtoms,predicted_pIC50,nn_smiles,tanimoto,parse_strategy
+NC1(O)OC2=NN(ONn3o[nH]oo3)C1(F)N2F,0.1618,7.286,273.11,-1.859,4,11,0,1,18,8.77,NC1(c2cc(C(=O)N[C@@H]3[C@H]4Oc5ccc(Oc6ccnc7c6CCC(=O)N7)cc5[C@@H]34)cc(C(F)(F)F)c2)CC1,0.147,strict
+NN(N)C12CC34C5n6n7n(n8n6C1(ON7F)O8)C53ON42,0.305,8.228,286.19,-3.991,2,8,1,1,20,8.553,CN(C)CCNC(=O)c1ccc2\C=C\c3n[nH]c4cnc(cc34)-c3cnn(C)c3OCCCOc2c1 |t:12|,0.124,strict
+CC(F)(F)C1(O)ON(OF)OC2OC(F)(On3n(F)n32)O1,0.7354,7.011,328.11,-0.368,1,8,1,1,21,6.328,CCOCc1ccc2c(c1)nc(NC(=O)c1cccc(C(F)(F)F)c1)n2[C@H]1CC[C@H](O)CC1,0.156,strict
+CC(O)(F)C1(O)ON(OF)OC2OC(F)(On3n(F)n32)O1,0.637,7.206,326.11,-1.345,2,9,1,1,21,6.328,CCOCc1ccc2c(c1)nc(NC(=O)c1cccc(C(F)(F)F)c1)n2[C@H]1CC[C@H](O)CC1,0.154,strict
+OC(F)(OC1(F)NCN(OF)N(n2oo2)O1)C(F)(F)F,0.3415,5.958,318.09,-0.087,2,9,1,1,20,6.051,CCC(=O)N1CC[C@H](N2C(=O)N(c3cccc(OC(F)(F)F)c3)Cc3cnc(Nc4ccc(N5CCN(C)CC5)c(C)c4)nc32)C1,0.146,strict
+CC1(n2[nH]oon2-p2oo2)OC2(O)ON1C2(O)O,0.3815,7.471,286.09,-1.396,4,10,0,2,18,5.62,Cc1nc(C)c(/C=C2\CC(C)C/C(=C\c3nc(C)c(C)nc3C)C2=NO)nc1C,0.119,strict
+NC(Oc1c2nn-2ooc1F)(On1oo1)C(F)(F)OF,0.3863,5.671,306.08,0.237,1,9,1,1,20,5.201,FC(F)(F)c1ccc(-n2cnnc2SCc2nc(COc3c(Cl)cccc3Cl)no2)cc1,0.146,strict
